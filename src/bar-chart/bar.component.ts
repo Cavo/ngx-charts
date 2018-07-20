@@ -23,7 +23,7 @@ import { id } from '../utils/id';
         [stops]="gradientStops"
       />
     </svg:defs>
-    <circle class="pippo" fill="red" cx="50" cy="50" r="40" ></circle>
+    <svg:circle class="pippo" fill="red" cx="50" cy="50" r="40" ></circle>
     <svg:path
       class="bar"
       stroke="none"
