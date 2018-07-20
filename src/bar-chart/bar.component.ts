@@ -25,7 +25,7 @@ import { id } from '../utils/id';
     </svg:defs>
     <svg:circle class="pippo" fill="red" cx="50" cy="50" r="40"/>
     <svg:path
-      class="bar"
+      class="bar pino"
       stroke="none"
       [class.active]="isActive"
       [attr.d]="path"
